@@ -1,0 +1,23 @@
+{
+    "name": "AutoSave",
+    "short_name": "AutoSave",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/icon-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon-180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/icon-1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ]
+  }
